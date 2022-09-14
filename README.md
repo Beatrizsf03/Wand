@@ -1,6 +1,6 @@
 Hello. I did this project following the teachings of Fernando Leonid on youtube. Video link: https://youtu.be/4r0zOW9Zn-Y
 
-Project details: Project of a magic wand in javascript to start interacting with HTML elements.
+Project details: Project of a magical wand in javascript to begin interaction with HTML elements.
 
 <p align="center">Result:</p>
 
